@@ -5,4 +5,9 @@
 
 
 In this Repository you will find some simple analysis on data which is given by Sir Sajid Majeed.
-The data is about Google Play Store applications
+
+The data is about Google Play Store applications.
+
+And a Assignment given by Sir Sajid Majeed.
+
+This assignment is based on basic programming of Python.
